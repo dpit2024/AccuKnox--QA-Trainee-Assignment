@@ -1,0 +1,12 @@
+2024-06-11 12:34:48,895 - Starting backup process...
+2024-06-11 12:34:48,927 - Backup to remote server failed: 'rsync' is not recognized as an internal or external command,
+operable program or batch file.
+
+2024-06-11 12:34:49,879 - Backup to S3 successful.
+2024-06-11 12:34:49,879 - Backup process completed.
+2024-06-11 12:35:08,244 - Starting backup process...
+2024-06-11 12:35:08,275 - Backup to remote server failed: 'rsync' is not recognized as an internal or external command,
+operable program or batch file.
+
+2024-06-11 12:35:08,803 - Backup to S3 successful.
+2024-06-11 12:35:08,803 - Backup process completed.
